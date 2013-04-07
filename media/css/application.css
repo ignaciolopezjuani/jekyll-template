@@ -1,0 +1,31 @@
+/*
+	Name: Base Stylesheet
+	Description: Sitio oficial de Sociedad Uruguaya de Psicología del deporte (supde) Asociación Civil
+	Author: Ignacio Lopez Juani
+	Author URI: www.lopezjuani.com
+*/
+
+/* Imports */
+@import url("html5-reset.css");
+
+/* Global styles ************************************************/
+
+.main-header {
+
+}
+.main-content {
+
+}
+.main-footer {
+
+}
+
+/* Section-specific styles ************************************************/
+
+body.home {
+
+}
+
+body.contact {
+
+}
